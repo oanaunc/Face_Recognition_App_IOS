@@ -15,6 +15,7 @@
 		3A18E7022448842500E318FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A18E7002448842500E318FA /* LaunchScreen.storyboard */; };
 		3A18E70D2448842500E318FA /* Face_DetectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18E70C2448842500E318FA /* Face_DetectionTests.swift */; };
 		3A18E7182448842500E318FA /* Face_DetectionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18E7172448842500E318FA /* Face_DetectionUITests.swift */; };
+		3A18E7262448850300E318FA /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18E7252448850300E318FA /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3A18E7132448842500E318FA /* Face DetectionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Face DetectionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A18E7172448842500E318FA /* Face_DetectionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Face_DetectionUITests.swift; sourceTree = "<group>"; };
 		3A18E7192448842500E318FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A18E7252448850300E318FA /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3A18E6F52448842300E318FA /* AppDelegate.swift */,
 				3A18E6F72448842300E318FA /* SceneDelegate.swift */,
 				3A18E6F92448842300E318FA /* ViewController.swift */,
+				3A18E7252448850300E318FA /* ImageViewController.swift */,
 				3A18E6FB2448842300E318FA /* Main.storyboard */,
 				3A18E6FE2448842500E318FA /* Assets.xcassets */,
 				3A18E7002448842500E318FA /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				3A18E6FA2448842300E318FA /* ViewController.swift in Sources */,
 				3A18E6F62448842300E318FA /* AppDelegate.swift in Sources */,
+				3A18E7262448850300E318FA /* ImageViewController.swift in Sources */,
 				3A18E6F82448842300E318FA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
